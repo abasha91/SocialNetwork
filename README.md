@@ -1,4 +1,4 @@
-Social Networking Kara
+Social Networking Kata
 
 In this project I used Spring-boot (MVC) for dependency management and Junit 5 for automated test.
 
